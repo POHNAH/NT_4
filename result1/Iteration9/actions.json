@@ -1,0 +1,56 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP65",
+                "stepName": "Url: webtours",
+                "infFile": "t2.inf",
+                "time": 1617046921817
+            },
+            {
+                "stepId": "STEP66",
+                "stepName": "Submit Data: login.pl",
+                "infFile": "t3.inf",
+                "time": 1617046922006
+            },
+            {
+                "stepId": "STEP67",
+                "stepName": "Url: Search Flights Button",
+                "infFile": "t4.inf",
+                "time": 1617046922210
+            },
+            {
+                "stepId": "STEP68",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t5.inf",
+                "time": 1617046922325
+            },
+            {
+                "stepId": "STEP69",
+                "stepName": "Submit Data: reservations.pl_2",
+                "infFile": "t6.inf",
+                "time": 1617046922427
+            },
+            {
+                "stepId": "STEP70",
+                "stepName": "Submit Data: reservations.pl_3",
+                "infFile": "t7.inf",
+                "time": 1617046922534
+            },
+            {
+                "stepId": "STEP71",
+                "stepName": "Url: Itinerary Button",
+                "infFile": "t8.inf",
+                "time": 1617046922716
+            },
+            {
+                "stepId": "STEP72",
+                "stepName": "Url: SignOff Button",
+                "infFile": "t9.inf",
+                "time": 1617046922844
+            }
+        ],
+        "transactions": []
+    }
+]
